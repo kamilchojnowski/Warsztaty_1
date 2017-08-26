@@ -1,0 +1,6 @@
+
+Niepoprawne dane. Pamiętaj, aby je odpowiednio wprowadzić, np.:
+Przerzut kości pierwszej i trzeciej = 1 3
+Jeżeli nie chcesz przerzucić żadnej kości, wpisz 0 (zero) i naciśnij enter
+
+

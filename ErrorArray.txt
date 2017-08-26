@@ -1,0 +1,4 @@
+
+Niepoprawne dane. Pamiętaj, że masz tylko 5 kości, możesz przerzucić kości tylko o numerach: 1, 2, 3, 4 oraz 5
+
+

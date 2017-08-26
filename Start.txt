@@ -1,0 +1,15 @@
+Witaj w grze w kości z komputerem!
+Zasady są bardzo proste: rzucasz pięcioma kośćmi, po czym dwa razy możesz przerzucić dowolną ilość kości (kości numeruje się od 1 do 5 zaczynając od kości po lewej stronie).
+Musisz mieć lepszy wynik niż Twój przeciwnik (komputer). Możliwe ułożenia kości (od najwyższego):
+- 5 takich samych wyników - Poker
+- 4 takie same kości - Kareta
+- 3 takie same kości plus dwie inne (identyczne) kości - Full
+- 5 kolejnych kości (2, 3, 4, 5, 6) - Duży Street
+- 5 kolejnych kości (1, 2, 3, 4, 5) - Mały Street
+- 3 takie same kości - Trójka
+- 2 takie same kości plus dwie inne (identyczne) kości - Dwie pary
+- 2 takie same kości - Para
+- Brak jakiegokolwiek z powyższych - Najwyższa kość
+
+
+Nacisnij enter aby rzucić kośćmi!
